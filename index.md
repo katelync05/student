@@ -2,11 +2,11 @@
 layout: default
 title: Student Blog
 ---
-
+let text = "Katelyn's Blog";
+text.fontcolor("blue");
 
 # Katelyn's Blog
-let text = "Welcome to my page!";
-text.fontcolor(blue);
+Welcome to my page!
 
 ### My Freeform Picture
 ![freeform pic](https://i.imgur.com/7YUCqwg.png)
