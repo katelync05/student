@@ -7,7 +7,7 @@ title: Student Blog
 ## Katelyn's Blog
 Welcome to my page ! 
 
-My Freeform Picture
+# My Freeform Picture
 I was born in San Diego, California. 
 My family is Taiwanese and I have a little sister and a dog named Blu. 
 Some things I like include the beach, art, and Barbie!
