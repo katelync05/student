@@ -5,7 +5,8 @@ title: Student Blog
 
 
 # Katelyn's Blog
-Welcome to my page !
+let text = "Welcome to my page!";
+text.fontcolor(blue);
 
 ### My Freeform Picture
 ![freeform pic](https://i.imgur.com/7YUCqwg.png)
