@@ -11,7 +11,7 @@ Welcome to my page !
 I was born in San Diego, California. 
 My family is Taiwanese and I have a little sister and a dog named Blu. 
 Some things I like include the beach, art, and Barbie!
-![freeform pic](https://i.imgur.com/7YUCqwg.png){width=300 height=300}
+![freeform pic](https://i.imgur.com/7YUCqwg.png)
 
 - Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
 - [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
