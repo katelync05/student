@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Student Blog
+title: Katelyn's Blog
 ---
 
 # <center><font color = "#CEA3FF"> Katelyn's Blog </font></center>
